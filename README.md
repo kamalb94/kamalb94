@@ -1,16 +1,32 @@
-## Hi there 👋
+# Kamal Biswal
 
-<!--
-**kamalb94/kamalb94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a MERN Stack Developer with a focus on building scalable and efficient web applications. I enjoy working across the full stack, from designing backend services to crafting intuitive frontend experiences.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Full Stack Developer experienced in MongoDB, Express, React, and Node.js  
+- Currently exploring GraphQL, TypeScript, microservices architecture, and cloud deployment using AWS  
+- Interested in mobile-first development using React Native  
+- Passionate about clean code, strong architecture, and meaningful UI/UX  
+
+## Projects
+
+Here are a few projects I’ve worked on:
+
+- **Pawgram_app** – A dog breed information app to help users learn about different breeds  
+- **Classbuddy** – An academic dashboard for students and instructors with session and feedback management  
+- **Circl** – A simple social media app prototype  
+- **Portfolio / Kamal_portfolio** – Personal portfolio applications  
+- **Node-app** – Backend application experimenting with APIs and Express fundamentals  
+
+## Currently Learning
+
+- TypeScript for stronger code quality in large applications  
+- GraphQL for efficient API design  
+- Scalable backend patterns using microservices  
+- Cloud services and DevOps practices with AWS  
+
+## Contact
+
+I'm open to collaboration, freelance opportunities, or just connecting with fellow developers.  
+Feel free to reach out through LinkedIn or email.
